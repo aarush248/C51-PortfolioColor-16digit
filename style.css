@@ -1,0 +1,51 @@
+h1{
+    color:darkslategrey
+}
+
+body{
+    background-color:#404090
+}
+
+.HeaderJr{
+    font-style: italic;
+    font-size: 30px;
+    background-color:#ffffff;
+    display:flex;
+    justify-content:center;
+    /*flex-direction:column*/;
+}
+
+.intro{
+    border-color: #000000;
+}
+
+.menu{
+    background-color:#ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.games{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.footer{
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+h2,p{
+    text-align: center;
+}
+
+/**{
+    border:solid
+}*/
